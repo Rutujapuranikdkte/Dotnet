@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\bin\Debug\String.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\bin\Debug\String.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\bin\Debug\String.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\obj\Debug\String.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\obj\Debug\String.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\String\obj\Debug\String.pdb

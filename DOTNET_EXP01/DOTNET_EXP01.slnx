@@ -1,0 +1,19 @@
+<Solution>
+  <Project Path="Arithmetic_operations/Arithmetic_operations.csproj" Id="45725fbd-a98b-4713-8afe-927e4e507dd8" />
+  <Project Path="Array/Array.csproj" Id="1565060a-3dcb-4d1d-ae00-2a56ebfaa731" />
+  <Project Path="ClassAccessModifier/ClassAccessModifier.csproj" Id="44f8b739-a6b4-4c6e-9e4a-58896eff5f40" />
+  <Project Path="ClassConstructor/ClassConstructor.csproj" Id="cb8f2f00-c41d-478b-b031-093e80921135" />
+  <Project Path="ClassObject/ClassObject.csproj" Id="33147d7f-0d0b-4d82-b7f7-645412c99be4" />
+  <Project Path="datatype/datatype.csproj" Id="a5983ea6-5256-4e85-9db5-a57356b131ab" />
+  <Project Path="demo01/demo01.csproj" Id="c69792ec-4339-46b1-8876-b770ab234297" />
+  <Project Path="DOTNET_EXP01/DOTNET_EXP01.csproj" Id="ddb9cafa-95cc-4001-84fa-ae4cbd3e855c" />
+  <Project Path="ForAndForEachloop/ForAndForEachloop.csproj" Id="71717a35-5746-43a5-8fbf-bb8a25b76523" />
+  <Project Path="IfElse/IfElse.csproj" Id="431620b9-65af-4de3-811d-74004bc1f160" />
+  <Project Path="Math/Math.csproj" Id="4a73ff9e-1a22-4363-9ae3-bfb43c4ab047" />
+  <Project Path="MethodeOverloading/MethodeOverloading.csproj" Id="f29e1b95-6dbb-4bdb-a0b8-247183201fbe" />
+  <Project Path="Methods/Methods.csproj" Id="7425497f-3922-4ce2-ad82-902c44bd2259" />
+  <Project Path="String/String.csproj" Id="e3c637d8-1d46-4039-bb9a-43c0990e874e" />
+  <Project Path="SwitchLoop/SwitchLoop.csproj" Id="ce8b1be9-0cba-4baf-a4eb-108e31377969" />
+  <Project Path="TypeCasting/TypeCasting.csproj" Id="22fcf21f-73be-49a4-9c06-1ac31ab4717c" />
+  <Project Path="WhileLoop/WhileLoop.csproj" Id="5874acf7-88b4-40b0-b5bb-45884b22a265" />
+</Solution>

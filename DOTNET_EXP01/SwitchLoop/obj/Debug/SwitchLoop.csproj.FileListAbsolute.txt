@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\bin\Debug\SwitchLoop.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\bin\Debug\SwitchLoop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\bin\Debug\SwitchLoop.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\obj\Debug\SwitchLoop.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\obj\Debug\SwitchLoop.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\obj\Debug\SwitchLoop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\SwitchLoop\obj\Debug\SwitchLoop.pdb

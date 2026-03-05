@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\bin\Debug\Arithmetic_operations.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\bin\Debug\Arithmetic_operations.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\bin\Debug\Arithmetic_operations.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\obj\Debug\Arithmetic_operations.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\obj\Debug\Arithmetic_operations.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\obj\Debug\Arithmetic_operations.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Arithmetic_operations\obj\Debug\Arithmetic_operations.pdb

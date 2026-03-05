@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\bin\Debug\Methods.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\bin\Debug\Methods.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\bin\Debug\Methods.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\obj\Debug\Methods.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Methods\obj\Debug\Methods.pdb

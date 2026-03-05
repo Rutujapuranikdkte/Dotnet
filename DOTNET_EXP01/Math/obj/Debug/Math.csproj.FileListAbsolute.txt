@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\bin\Debug\Math.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\bin\Debug\Math.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\bin\Debug\Math.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\obj\Debug\Math.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\Math\obj\Debug\Math.pdb

@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\bin\Debug\ForAndForEachloop.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\bin\Debug\ForAndForEachloop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\bin\Debug\ForAndForEachloop.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\obj\Debug\ForAndForEachloop.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\obj\Debug\ForAndForEachloop.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\obj\Debug\ForAndForEachloop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\ForAndForEachloop\obj\Debug\ForAndForEachloop.pdb

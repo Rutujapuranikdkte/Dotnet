@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\bin\Debug\datatype.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\bin\Debug\datatype.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\bin\Debug\datatype.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\obj\Debug\datatype.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\obj\Debug\datatype.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\obj\Debug\datatype.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\datatype\obj\Debug\datatype.pdb

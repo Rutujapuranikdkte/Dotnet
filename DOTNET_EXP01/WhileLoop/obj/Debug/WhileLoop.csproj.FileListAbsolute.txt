@@ -1,0 +1,7 @@
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\bin\Debug\WhileLoop.exe.config
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\bin\Debug\WhileLoop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\bin\Debug\WhileLoop.pdb
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\obj\Debug\WhileLoop.exe
+E:\WEB TECHNOLOGY\DOTNET\Practical\DOTNET_EXP01\WhileLoop\obj\Debug\WhileLoop.pdb
