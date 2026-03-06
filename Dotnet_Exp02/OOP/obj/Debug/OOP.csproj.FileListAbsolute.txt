@@ -1,0 +1,7 @@
+D:\Dotnet\Practical\OOP\bin\Debug\OOP.exe.config
+D:\Dotnet\Practical\OOP\bin\Debug\OOP.exe
+D:\Dotnet\Practical\OOP\bin\Debug\OOP.pdb
+D:\Dotnet\Practical\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\Dotnet\Practical\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practical\OOP\obj\Debug\OOP.exe
+D:\Dotnet\Practical\OOP\obj\Debug\OOP.pdb

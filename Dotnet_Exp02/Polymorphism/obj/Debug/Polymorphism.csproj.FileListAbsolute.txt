@@ -1,0 +1,7 @@
+D:\Dotnet\Practical\Polymorphism\bin\Debug\Polymorphism.exe.config
+D:\Dotnet\Practical\Polymorphism\bin\Debug\Polymorphism.exe
+D:\Dotnet\Practical\Polymorphism\bin\Debug\Polymorphism.pdb
+D:\Dotnet\Practical\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+D:\Dotnet\Practical\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practical\Polymorphism\obj\Debug\Polymorphism.exe
+D:\Dotnet\Practical\Polymorphism\obj\Debug\Polymorphism.pdb

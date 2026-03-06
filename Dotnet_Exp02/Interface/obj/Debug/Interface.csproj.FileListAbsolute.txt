@@ -1,0 +1,7 @@
+D:\Dotnet\Practical\Interface\bin\Debug\Interface.exe.config
+D:\Dotnet\Practical\Interface\bin\Debug\Interface.exe
+D:\Dotnet\Practical\Interface\bin\Debug\Interface.pdb
+D:\Dotnet\Practical\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\Dotnet\Practical\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practical\Interface\obj\Debug\Interface.exe
+D:\Dotnet\Practical\Interface\obj\Debug\Interface.pdb

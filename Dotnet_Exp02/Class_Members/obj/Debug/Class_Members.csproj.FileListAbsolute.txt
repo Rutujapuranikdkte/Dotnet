@@ -1,0 +1,7 @@
+D:\Dotnet\Practical\Class_Members\bin\Debug\Class_Members.exe.config
+D:\Dotnet\Practical\Class_Members\bin\Debug\Class_Members.exe
+D:\Dotnet\Practical\Class_Members\bin\Debug\Class_Members.pdb
+D:\Dotnet\Practical\Class_Members\obj\Debug\Class_Members.csproj.AssemblyReference.cache
+D:\Dotnet\Practical\Class_Members\obj\Debug\Class_Members.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practical\Class_Members\obj\Debug\Class_Members.exe
+D:\Dotnet\Practical\Class_Members\obj\Debug\Class_Members.pdb
