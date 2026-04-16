@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\Lab\\Exp08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|d:\\dotnet\\lab\\exp08\\crud_operations\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4FC85D-493D-4726-852C-BAC600E10A11}|CRUD_Operations\\CRUD_Operations.csproj|solutionrelative:crud_operations\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD_Operations\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T06:57:15.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Program.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Program.cs",
+              "RelativeToolTip": "CRUD_Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:42:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CRUD_Operations\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T06:39:42.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CRUD_Operations\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T06:39:04.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUD_Operations\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T06:38:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Models\\SbContext.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Models\\SbContext.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Models\\SbContext.cs",
+              "RelativeToolTip": "CRUD_Operations\\Models\\SbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:32:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD_Operations\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:30:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CRUD_Operations\\Models\\Student.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp08\\CRUD_Operations\\Models\\Student.cs",
+              "RelativeToolTip": "CRUD_Operations\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T06:28:48.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
