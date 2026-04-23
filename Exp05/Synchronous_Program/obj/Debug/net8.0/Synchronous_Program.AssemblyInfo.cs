@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Synchronous_Program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32bc8cce523dc3cb0cbaf8b0d006e40ec67b42f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Synchronous_Program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Synchronous_Program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

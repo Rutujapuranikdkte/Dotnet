@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dotnet\\Exp05\\Synchronous_Program\\Synchronous_Program.csproj",
+      "projectUniqueName": "D:\\Dotnet\\Dotnet\\Exp05\\Synchronous_Program\\Synchronous_Program.csproj",
       "projectName": "Synchronous_Program",
-      "projectPath": "D:\\Dotnet\\Exp05\\Synchronous_Program\\Synchronous_Program.csproj",
+      "projectPath": "D:\\Dotnet\\Dotnet\\Exp05\\Synchronous_Program\\Synchronous_Program.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Dotnet\\Exp05\\Synchronous_Program\\obj\\",
+      "outputPath": "D:\\Dotnet\\Dotnet\\Exp05\\Synchronous_Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
